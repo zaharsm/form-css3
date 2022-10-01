@@ -8,6 +8,7 @@ Css Styling with functionality:
 Key areas:
 
 1) transform: scale(0.9) translate(0, 0);
+   transform: scale(0.96) translate(0, 16px); - hover
 
 2)  background-image: linear-gradient(45deg,   rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%,
                                                rgba(0, 0, 0, 0) 50%,rgba(255, 255, 255, 0.15) 50%, 
